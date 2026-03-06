@@ -28,6 +28,14 @@ h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+p {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 .scoreinfo {
     margin-bottom: 30px;
     font-size: 1.2em;
@@ -53,7 +61,7 @@ h1 {
     min-height: 25px;
     color: #764ba2;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 2.5em;
 }
 
 .gameboard {
@@ -119,7 +127,7 @@ h1 {
         padding: 20px;
     }
 
-    h1 {
+    h1{
         font-size: 2em;
     }
 
